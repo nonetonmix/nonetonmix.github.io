@@ -12,7 +12,7 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://blog.pavanbhaskar.com",
+  site: "https://nonetonmix.github.io",
   integrations: [mdx(), sitemap(), react(), tailwind()],
 
   markdown: {
